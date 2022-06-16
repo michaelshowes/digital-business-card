@@ -1,0 +1,16 @@
+[
+  {
+    "image": "",
+    "name": "Full Name",
+    "occupation": "Frontend Developer",
+    "website": "website.dev",
+    "email": "email@email.com",
+    "about": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eius consequuntur velit, quaerat est autem placeat officia nesciunt dicta quibusdam nihil cumque sequi veniam vitae quod.",
+    "interests": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eius consequuntur velit, quaerat est autem.",
+    "twitter_link": "https://twitter.com",
+    "facebook_link": "https://www.facebook.com",
+    "instagram_link": "https://www.instagram.com",
+    "linkedin_link": "https://www.linkedin.com",
+    "github_link": "https://github.com"
+  }
+]

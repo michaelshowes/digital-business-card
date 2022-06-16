@@ -1,0 +1,15 @@
+.container  {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  height: 100vh;
+
+  .profile {
+    background-color: #1a1b21;
+    width: 100%;
+    max-width: 317px;
+    border-radius: 10px;
+    overflow: hidden;
+  }
+}

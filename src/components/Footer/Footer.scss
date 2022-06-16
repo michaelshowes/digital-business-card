@@ -1,0 +1,25 @@
+.footer {
+  background-color: #161619;
+  padding: 20px 0;
+
+  ul {
+    display: flex;
+    justify-content: center;
+
+    li {
+      margin-inline: 12px;
+
+      img {
+        transform: translateY(0);
+        transition: .15s ease-in-out;
+      }
+
+      &:hover {
+
+        img {
+          transform: translateY(-5px);
+        }
+      }
+    }
+  }
+}

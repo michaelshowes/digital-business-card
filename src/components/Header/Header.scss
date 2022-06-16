@@ -1,0 +1,44 @@
+.header {
+  text-align: center;
+
+  .img {
+    margin-bottom: 24px;
+  }
+
+  &-content {
+    padding: 0 35px;
+
+    .h1 {
+      font-size: 25px;
+      margin-bottom: 2px;
+    }
+
+    .h3 {
+      color: #f3bf99;
+      font-size: 16px;
+      font-weight: 400;
+      margin-bottom: 10px;
+    }
+
+    .h4 {
+      font-size: 13px;
+      margin-bottom: 22px;
+    }
+
+    button {
+      font-weight: 500;
+      border: 0;
+      border-radius: 6px;
+      background-color: #fff;
+      color: #374151;
+      width: 100%;
+      padding: 9px 0;
+      cursor: pointer;
+
+      &::before {
+        content: url('../../assets/images/mail_icon.svg');
+        margin-right: 8px;
+      }
+    }
+  }
+}
